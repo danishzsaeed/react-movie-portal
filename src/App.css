@@ -1,0 +1,33 @@
+svg{
+    width: 28px;
+    height: 28px;
+}
+.each-slide-effect > div {
+    display: flex;
+    align-items: self-start;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+    flex-direction: column;
+    padding-left: 20px;
+  }
+  
+  .each-slide-effect span {
+    display: flex;
+    padding: 0px 0 10px 20px;
+    text-align: left;
+    color: white;
+    width: 50%;
+  }
+  div .react-slideshow-container .default-nav{
+    background: transparent;
+  }
+  .react-slideshow-wrapper.slide{
+    border-radius: 7px;
+  }
+  button.nav.default-nav{
+    display: none;
+  }
+  .style-module_simpleStarRating__nWUxf  .style-module_emptyIcons__Bg-FZ{
+    display: flex;
+  }
